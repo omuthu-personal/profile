@@ -15,14 +15,14 @@ website: https://omuthu-personal.github.io/
 darkmode: false
 
 # Social links
-twitter_username: facespics
+linkedin_username: omuthu
 github_username:  omuthu-personal
 stackoverflow_username: "4840338"
+# twitter_username: facespics
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: omuthu
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,9 +48,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+ Experienced Cloud Solutions Architect with a demonstrated history of working in the information technology and services industry for 15+ years. 
+ Strong engineering professional skilled in AWS cloud and various programming languages with exposure to other cloud environments.
+ As a Cloud Solutions Architect, help customers build secure, scalable and highly available applications on AWS. 
+ My activities include Design, Development and Deploying Solutions on AWS Public Cloud. 
+ Have experience of DevOps, Containers, Big Data, Workflow Orchestrations, Data Lake and Serverless implementations on AWS. 
+ Also, have experience with chatbot implementations using various NLP systems like Alexa, Lex, DialogFlow etc...
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark>
 
 content:
   - title: Projects # Title for the section
